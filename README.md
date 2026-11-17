@@ -1,11 +1,11 @@
 # Mobile Application for Women Safety Purpose
 ## KAVACH - Women Safety Mobile Application
-🚨 Overview
+Overview
 KAVACH is a safety-first mobile application designed to provide immediate assistance during emergencies. Whether traveling alone or facing an urgent situation, users can quickly send distress alerts to pre-saved contacts with a single tap.
 
 Beyond emergency response, the app also features daily resources focused on self-defense, motivation, fitness, and informative blogs.
 
-✨ Key Features
+Key Features
 1. Emergency SOS Alert
 One-Touch Emergency Button: Instantly triggers an alert message (e.g., "Help me, I am in trouble!") to a list of trusted family members and friends.
 
